@@ -1,0 +1,5 @@
+Các nhóm trưởng chụp hình giao diện:
+- Git gồm project đã khởi tạo, danh sách các thành viên tham gia
+- Hình ảnh phần mềm phân công
+- Hình ảnh tài liệu chung chia sẻ cho các thành viên trong nhóm
+Tất cả hình chụp được nén lại nhomxx.zip
